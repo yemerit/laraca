@@ -19,7 +19,7 @@
 PyroCMS is a CMS built using the CodeIgniter PHP framework. Using an MVC architecture
 it was built with modularity in mind. Lightweight, themeable and dynamic.
 
-PyroCMS Community Edition is free to use, redistribute and/or modify for any purpose whether personal or commercial however you must retain the copyright in your source code and in the footer of the administration. Test
+PyroCMS Community Edition is free to use, redistribute and/or modify for any purpose whether personal or commercial however you must retain the copyright in your source code and in the footer of the administration. 
 
 ## Installation
 
